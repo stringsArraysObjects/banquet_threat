@@ -1,7 +1,8 @@
 // RESULT:  transform a number into a string.
 // EXAMPLE: Examples (input --> output):
 //          123  --> "123"
-//PSEUDDOCODE: use the ToString method
+//PSEUDDOCODE: use the ToString method to convert the num to 
+//             a string data type.
 
 
 
