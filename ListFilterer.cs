@@ -1,8 +1,5 @@
-
-
-
-
-
+// RESULT:  Take a list of non-negative integers and strings
+//           and returns a new list with the strings filtered out.
 
 using System.Collections;
 using System.Collections.Generic;
