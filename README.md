@@ -1,1 +1,2 @@
-<h1>C# Codewars</h1>
+<h1>Codewars</h1>
+![C# logo](image.png)
