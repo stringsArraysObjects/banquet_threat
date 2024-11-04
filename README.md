@@ -1,3 +1,7 @@
-<h1 style="color: #990099;">C# Codewars</h1>
-
-
+<h1>C#</h1>
+<h2> Codewars</h2>
+<style>
+    h1 {
+        color: #990099;
+    }
+</style>
