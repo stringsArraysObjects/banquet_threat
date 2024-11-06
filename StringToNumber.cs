@@ -1,4 +1,4 @@
-// REUSLUT: Transform a string into a number.
+// RESLUT: Transform a string into a number.
 
 
 using System;
