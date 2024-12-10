@@ -1,1 +1,2 @@
-<h1>Codewars<br>C#</h1>
+<h2>Codewars</h2>
+<i>C#</i>
